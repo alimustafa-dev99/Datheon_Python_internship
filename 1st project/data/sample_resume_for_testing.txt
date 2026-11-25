@@ -1,0 +1,44 @@
+RESUME
+
+Name: Ayesha Khan
+Email: ayesha.khan@example.com
+Phone: +92 300 1234567
+Location: Karachi, Pakistan
+
+PROFESSIONAL SUMMARY
+Computer Science student interested in Python development, data analysis, and building practical AI applications. Enjoys solving problems, learning new tools, and working collaboratively on software projects.
+
+EDUCATION
+Bachelor of Science in Computer Science
+Example University, Karachi
+Expected Graduation: 2027
+Relevant coursework: Programming Fundamentals, Data Structures, Database Systems
+
+SKILLS
+Programming: Python, SQL, basic JavaScript
+Tools: Git, GitHub, VS Code
+Libraries: pandas, NumPy
+Other: Problem solving, teamwork, technical writing
+
+PROJECTS
+Student Expense Tracker
+- Built a Python application to record expenses and categorize spending.
+- Added monthly summaries and CSV export.
+- Used basic input validation to reduce invalid entries.
+
+Retail Sales Analysis
+- Analyzed a sample retail dataset using pandas.
+- Cleaned missing values and calculated category-wise sales totals.
+- Created simple charts to communicate trends.
+
+EXPERIENCE
+Student Project Volunteer
+Campus Technology Club | 2025
+- Helped organize beginner programming sessions.
+- Collaborated with a small student team on a simple event-registration prototype.
+
+CERTIFICATIONS
+Python Fundamentals — Example Learning Platform, 2025
+
+NOTE
+This is fictional sample data for testing an AI resume analyzer. Do not treat the name, contact details, education, projects, or experience as real.
